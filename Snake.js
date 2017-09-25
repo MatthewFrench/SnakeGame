@@ -1,3 +1,5 @@
+import Snake from './snake';
+
 function Snake() {
   this.cellSize = 10;
   this.width = 15;
